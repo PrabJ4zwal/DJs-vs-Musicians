@@ -1,0 +1,5 @@
+client_id = 'v_Ptdq0ELxRypHuQ3KYSQA'
+client_secret = 'brNE_xyAjhSFXhrJnnlwwOSYoLfv-Q'
+user_agent = 'PrabJaswal'
+username = 'Visible-Eagle-4426'
+password = 'Theblobs74-R'

@@ -1,0 +1,31 @@
+Progress
+
+Thurs 25th April 
+Iv got some clean code for webscraping from the musicians subreddit. Now Argo suggestsm to get enough posts, I should modify the url used in order to grab data from the hot / controversial filters of musicians sureddits. He suggested using PRAW (a python reddit api wrapper) for which I am going to read documentation for, as well as going over tom van neunen's guide on medium, before I sleep. 
+
+Friday 26th April 
+- Finish off the webscraping stuff for both musicians , as above, and the ditto for DJ's . 
+- Used PRAW 
+- learned from hank that the models that do best on project 3 are logistic regression and mutinomial naive bayes. 
+
+Sunday 27 April 
+- Grabbed data from hot, new, top and rising of each subreddtit
+- Catch up on concepts and notes
+- Start preprocessing the data with Spacy
+
+
+
+1st May HANK RUNTHROUGH
+
+
+- Problem statement What is target metric and why? pick the best model based on metric. ROCCURVE AUC is good for classification. 
+- check out solidity (javascript similar), vyper(python similar).
+
+
+Final Questions for Alanna and Hank 
+- I don't understand how to interpret my evaluation metrics. 
+
+Final Bits 
+- Do EDA and visualizations - with summary of what has been found / explored, and what might be inferred from this. what are the most common words in each and/or exclusive to each dj's and musicians threads?
+- Watch video + have conversation about interpretations of my metrics and write a summary in codebook and then conclusion in README. (Baseline score?, accuracy?, F1 score?). 
+- 
